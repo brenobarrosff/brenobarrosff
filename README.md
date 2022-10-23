@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1>Salve, Salve! Eu sou Breno Barros.🖐</h1>
 
-<!--
-**brenobarrosff/brenobarrosff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Desenvolvedor FullStack jr
 
-Here are some ideas to get you started:
+- 🔭 Atualmente sou freelance e desenvolvo projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨💻 Todos meus projetos estão disponíveis em [🚨 Portifólio em construção]()
+
+- 💬 Respondo perguntas sobre **Java, HTML, CSS, SQL, Node.JS**
+
+<br><br>
+
+## 🛠 &nbsp;Tecnologias que domino
+
+<img align="center" alt="HTML5"
+src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+                                                                                              
+<img align="center" alt="CSS"
+src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+
+<img align="center" alt="JAVA"
+src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whiteJAVA">
+
+<br><br>
+
+## ⚙ &nbsp;GiHub Analytics
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=brenobarrosff&show_icons=true&theme=tokyonight"
+alt="brenobarrosff's stats"/>
+
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenobarrosff&layout=compact&theme=tokyonight" alt="brenobarrosff's most languages"/>
+</p>
+
+<br><br>
+
+## &nbsp;Social Links
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenobarrosff/)
