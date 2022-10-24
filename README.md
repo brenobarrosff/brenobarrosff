@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente sou freelance 
 
-- 👨💻 Todos meus projetos estão disponíveis em [🚨 Portifólio em construção]()
+- 👨💻 Todos meus projetos estão disponíveis em [https://brenobarrosff.github.io/]()
 
 - 💬 Respondo perguntas sobre **JavaScript, HTML, CSS, SQL**
 
