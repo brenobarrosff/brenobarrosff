@@ -2,11 +2,11 @@
 
 - 🔥 Desenvolvedor FullStack jr
 
-- 🔭 Atualmente sou freelance e desenvolvo projetos
+- 🔭 Atualmente sou freelance 
 
 - 👨💻 Todos meus projetos estão disponíveis em [🚨 Portifólio em construção]()
 
-- 💬 Respondo perguntas sobre **Java, HTML, CSS, SQL, Node.JS**
+- 💬 Respondo perguntas sobre **JavaScript, HTML, CSS, SQL**
 
 <br><br>
 
@@ -19,7 +19,7 @@ src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&lo
 src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 <img align="center" alt="JAVA"
-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whiteJAVA">
+src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=whiteJAVASCRIPT">
 
 <br><br>
 
